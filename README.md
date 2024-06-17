@@ -8,7 +8,9 @@ Thank you for your understanding and support during the project's active phase! 
 
 <h1 align="center"><b>FreeAnimeWebsites v3.0</b></h1>
 
-FreeAnimeWebsites is a pure HTML, CSS, and JS version of FreeAnimeSite. It is lightweight, fast, ad-free, open-source, and easy to deploy. The design is responsive, and it uses Gogoanime and Anilist to get content. Powered by the blazing-fast [kayoanime](https://kayoanimetv.com).
+FreeAnimeWebsites is a pure HTML, CSS, and JS version of FreeAnimeSite. It is lightweight, fast, ad-free, open-source, and easy to deploy. The design is responsive, and it uses Gogoanime and Anilist to get content. Powered by the blazing-fast 
+KayoAnime:
+[kayoanime](https://kayoanimetv.com).
 
 ## 🔥 Host Your Own
 
@@ -18,7 +20,8 @@ You have several options for free hosting services:
 
 - Cloudflare, Netlify, Github Pages, Vercel, Render
 - And Many More! Search On Google For `Free Static Website Hostings`
-[animixplay](https://animixplay.fun)
+  
+Anime websites: [animixplay](https://animixplay.fun)
 
 ### 💰 Paid Hostings
 
