@@ -32,7 +32,6 @@ If you prefer paid hosting, look for services that allow using HTML files. Searc
 To run FreeAnimeWebsites on your local machine:
 
 - Download this repository
-- Open the `index.html` file in a browser
+- Open the `index.html` file in a browser.
 
-Best Regards
-KayoAnime
+Enjoin
