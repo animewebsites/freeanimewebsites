@@ -34,9 +34,5 @@ To run FreeAnimeWebsites on your local machine:
 - Download this repository
 - Open the `index.html` file in a browser
 
-## 🚀 Deploy FreeAnimeWebsitesApi (Required)
-
-- You must deploy FreeAnimeWebsitesApi for FreeAnimeWebsites to work
-- You can deploy FreeAnimeWebsitesApi for free on cloudflare workers
-
-## 🎯 Deploy FreeAnimeSite Proxy (Recommended)
+Best Regards
+KayoAnime
