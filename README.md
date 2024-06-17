@@ -1,4 +1,4 @@
-## ⚠️ **Note: This Project Is Stopped**
+## ⚠️ **Free Anime Websites**
 
 The **FreeAnimeWebsites Project** has been discontinued. I have made this decision to avoid potential copyright claims in the future. As a result, all public domains and APIs hosted by me are now inactive.
 
